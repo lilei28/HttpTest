@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 /**
  * Created by lilei on 16/11/24.
  */
+
 public class SendPost {
     HttpRequest httpRequest = new HttpRequest();
 

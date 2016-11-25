@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="TestSuite" time="2.716" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/Users/lilei/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="env.XPC_SERVICE_NAME" value="com.jetbrains.intellij.171232"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/classes"/>
+    <property name="env.TMPDIR" value="/var/folders/8g/bjv1mvy90f1dnz5f7n57mm6m0000gn/T/"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="1.8.0_111-b14"/>
+    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.f7BvJVEXa2/Render"/>
+    <property name="user.name" value="lilei"/>
+    <property name="maven.build.version" value="Apache Maven 3.0.5 (r01de14724cdef164cd33c7c8c2fe155faf9602da; 2013-02-19 21:51:28+0800)"/>
+    <property name="env.USER" value="lilei"/>
+    <property name="env.SHELL" value="/bin/bash"/>
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x19:0x34"/>
+    <property name="idea.launcher.bin.path" value="/Applications/IntelliJ IDEA 15.app/Contents/bin"/>
+    <property name="env.PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home//bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin::/Users/lilei/Library/Android/sdk/platform-tools:/Users/lilei/Library/Android/sdk/tools"/>
+    <property name="user.language" value="zh"/>
+    <property name="idea.version" value="15.0.1"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib"/>
+    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA 15.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="env.XPC_FLAGS" value="0x0"/>
+    <property name="env.LC_CTYPE" value="zh_CN.UTF-8"/>
+    <property name="java.version" value="1.8.0_111"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="user.country" value="CN"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre"/>
+    <property name="env.ANDROID_HOME" value="/Users/lilei/Library/Android/sdk"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="env.LOGNAME" value="lilei"/>
+    <property name="os.version" value="10.11.5"/>
+    <property name="env.CLICOLOR" value="1"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.111-b14"/>
+    <property name="env.JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="env.LSCOLORS" value="exfxcxdxbxegedabagacad"/>
+    <property name="user.home" value="/Users/lilei"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="test" value="testcases/*"/>
+    <property name="java.library.path" value="/Users/lilei/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.home" value="/Applications/IntelliJ IDEA 15.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.java.command" value="com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher -Didea.version=15.0.1 clean compile test -Dtest=testcases/*"/>
+    <property name="java.class.path" value="/Applications/IntelliJ IDEA 15.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.4.jar:/Applications/IntelliJ IDEA 15.app/Contents/lib/idea_rt.jar"/>
+    <property name="env.JAVA_MAIN_CLASS_2368" value="com.intellij.rt.execution.application.AppMain"/>
+    <property name="idea.launcher.port" value="7536"/>
+    <property name="maven.version" value="3.0.5"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="env.HOME" value="/Users/lilei"/>
+    <property name="surefire.test.class.path" value="/Users/lilei/lilei28/HttpTest/target/test-classes:/Users/lilei/lilei28/HttpTest/target/classes:/Users/lilei/.m2/repository/com-itest/itest/1.0.38/itest-1.0.38.jar:/Users/lilei/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar:/Users/lilei/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/lilei/.m2/repository/org/json/json/20140107/json-20140107.jar:/Users/lilei/.m2/repository/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar:/Users/lilei/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/lilei/.m2/repository/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk13.jar:/Users/lilei/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar:/Users/lilei/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/lilei/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar:/Users/lilei/.m2/repository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar:/Users/lilei/.m2/repository/org/jsoup/jsoup/1.8.2/jsoup-1.8.2.jar:/Users/lilei/.m2/repository/com/jayway/jsonpath/json-path/0.9.1/json-path-0.9.1.jar:/Users/lilei/.m2/repository/net/minidev/json-smart/1.2/json-smart-1.2.jar:/Users/lilei/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/Users/lilei/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar:/Users/lilei/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/lilei/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/lilei/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/lilei/.m2/repository/commons-io/commons-io/2.3/commons-io-2.3.jar:/Users/lilei/.m2/repository/org/testng/testng/6.8.1/testng-6.8.1.jar:/Users/lilei/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/lilei/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/lilei/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/lilei/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/lilei/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:"/>
+    <property name="java.io.tmpdir" value="/var/folders/8g/bjv1mvy90f1dnz5f7n57mm6m0000gn/T/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.yq37qhgQJz/Listeners"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.ext.dirs" value="/Users/lilei/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="user.dir" value="/Users/lilei/lilei28/HttpTest"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="basedir" value="/Users/lilei/lilei28/HttpTest"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.8"/>
+  </properties>
+  <testcase classname="testcases.SendGet" name="testCase1" time="1.615"/>
+  <testcase classname="testcases.SendPost" name="testCase1" time="0.787"/>
+</testsuite>

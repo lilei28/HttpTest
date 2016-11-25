@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="机票订单中重构接口自动化测试" >
+  <!-- <listeners>
+   <listener class-name="com.holmos.webtest.testngextentions.RetryListener"></listener>
+   </listeners> -->
+   <test name="机票订单中重构接口自动化测试" >
+    <classes>
+
+        <class name="testcases.SendGet">
+
+            <methods>
+                <include name="testCase1" />
+                <!--<include name="testCase2" />-->
+            </methods>
+        </class>
+        <class name="testcases.SendPost">
+
+            <methods>
+                <include name="testCase1" />
+                <!--<include name="testCase2" />-->
+            </methods>
+        </class>
+    </classes>
+  </test> 
+</suite> 
+ 
+ 
+ 
+ 
